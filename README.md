@@ -11,5 +11,3 @@ https://joseml27.github.io/glosario-actualizado/
 | ------------ | ------------ |
 |  Colegio: | Colegio Santa Catalina Laboure  |
 |  Mi trabajo | https://joseml27.github.io/glosario-actualizado/glosario.html.  |
-
-
