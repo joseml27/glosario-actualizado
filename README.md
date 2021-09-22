@@ -24,8 +24,8 @@ https://joseml27.github.io/glosario-actualizado/
 ###### Contenido HTML ..........
 ###### Contenido CSS..........
 
-https://joseml27.github.io/figma/
-https://joseml27.github.io/figma-nuevvvv/
-https://joseml27.github.io/figma2.2.2/
-https://joseml27.github.io/figma3333/
-https://joseml27.github.io/figma4/
+######  https://joseml27.github.io/figma/
+######  https://joseml27.github.io/figma-nuevvvv/
+######  https://joseml27.github.io/figma2.2.2/
+######  https://joseml27.github.io/figma3333/
+######  https://joseml27.github.io/figma4/
